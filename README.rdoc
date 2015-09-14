@@ -15,12 +15,9 @@ application up and running.
 
 * Services (job queues, cache servers, search engines, etc.): Initialize localhost server by command <tt>rails s</tt>
 
-* Deployment instructions: Recommend deploy on Ubuntu 12.04 LTS + Passenger
+* Deployment instructions: Recommend deploy on Ubuntu 12.04 LTS + Passenger (Also requires to install Apache & MySQL).
 
 * ...
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
-
-Feel free to contact me at: <tt>khanhthietbi@gmail.com</tt>
+Please feel free to contact me at: <tt>khanhthietbi@gmail.com</tt>
