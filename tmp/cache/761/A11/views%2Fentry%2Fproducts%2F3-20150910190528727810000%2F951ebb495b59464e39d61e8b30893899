@@ -1,0 +1,16 @@
+o: ActiveSupport::Cache::Entry:@valueI"å            <div class="entry">
+              <img alt="Rtp" src="/assets/rtp.jpg" />
+              <h3>Rails Test Prescriptions</h3>
+              <p>
+        <em>Rails Test Prescriptions</em> is a comprehensive guide to testing
+        Rails applications, covering Test-Driven Development from both a
+        theoretical perspective (why to test) and from a practical perspective
+        (how to test effectively). It covers the core Rails testing tools and
+        procedures for Rails 2 and Rails 3, and introduces popular add-ons,
+        including Cucumber, Shoulda, Machinist, Mocha, and Rcov.
+      </p>
+              <div class="price_line">
+                <span class="price">$34.95</span>
+              </div>
+            </div>
+:ET:@created_atf1441955772.6043808:@expires_in0

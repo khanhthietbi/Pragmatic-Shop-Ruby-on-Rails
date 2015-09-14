@@ -1,0 +1,63 @@
+vn:
+  layouts:
+    application:
+      title: "Hiệu sách Pracmatic"
+      home: "Trang chủ"
+      questions: "Câu hỏi"
+      news: "Tin tức"
+      contact: "Liên hệ"
+
+  store:
+    index:
+      title_html: "Catalog Của Bạn"
+      add_html: "Thêm Vào Giỏ"
+
+  carts:
+    cart:
+      title: "Giỏ Hàng"
+      empty: "Xóa Giỏ"
+      checkout: "Thanh Toán"
+
+  number:
+    currency:
+      format:
+        unit: "$"
+        precision: 2
+        separator: ","
+        delimiter: "."
+        format: "%n&nbsp%u"
+
+  orders:
+    new:
+      legend: "Vui lòng điền thông tin"
+    form:
+      name: "Tên bạn"
+      address_html: "Địa chỉ"
+      email: "E-mail"
+      pay_type: "Thanh toán"
+      pay_prompt_html: "Chọn phương thức thanh toán"
+      submit: "Đặt hàng"
+
+  activerecord:
+    models:
+      order: "Đơn hàng"
+    attributes:
+      order:
+        address: "Địa chỉ"
+        name: "Tên"
+        email: "E-mail"
+        pay_type: "Phương thức thanh toán"
+
+    errors:
+      messages:
+        inclusion: "vui lòng chọn trong danh sách hỗ trợ"
+        blank: "không được để trống"
+
+  errors:
+    template:
+      body: "Những trường sau đây có lỗi"
+      header:
+        one: "1 lỗi phát sinh trong %{model}"
+        other: "%{count} lỗi phát sinh trong %{model}"
+
+  thanks: "Xin cảm ơn quý khách."
