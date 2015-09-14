@@ -13,7 +13,7 @@ application up and running.
 
 * How to run the test suite: run command <tt>rake test</tt> for all tests at once or specific test by command <tt>rake test:models</tt>, etc...
 
-* Services (job queues, cache servers, search engines, etc.): N/A
+* Services (job queues, cache servers, search engines, etc.): Initialize localhost server by command <tt>rails s</tt>
 
 * Deployment instructions: Recommend deploy on Ubuntu 12.04 LTS + Passenger
 
