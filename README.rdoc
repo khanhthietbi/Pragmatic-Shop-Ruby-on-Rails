@@ -3,26 +3,24 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+* Ruby version: 2.1.5, Rails version: 4.1.8
 
-* Ruby version
+* System dependencies: Windows 8.1 x64
 
-* System dependencies
+* Configuration: You need RailInstaller (Windows/Mac OSX) or RVM (Mac OSX/Linux)
 
-* Configuration
+* Database creation and initialization: run command <tt>rake db:migrate</tt> and <tt>rake db:setup</tt>
 
-* Database creation
+* How to run the test suite: run command <tt>rake test</tt> for all tests at once or specific test by command <tt>rake test:models</tt>, etc...
 
-* Database initialization
+* Services (job queues, cache servers, search engines, etc.): N/A
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Deployment instructions: Recommend deploy on Ubuntu 12.04 LTS + Passenger
 
 * ...
 
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+Feel free to contact me at: <tt>khanhthietbi@gmail.com</tt>
