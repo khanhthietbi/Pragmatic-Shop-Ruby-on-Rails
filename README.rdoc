@@ -5,19 +5,19 @@ application up and running.
 
 * Ruby version: 2.1.5, Rails version: 4.1.8
 
-* System dependencies: Windows 8.1 x64
+* System dependencies: Windows 7/8/10
 
-* Configuration: You need RailInstaller (Windows/Mac OSX) or RVM (Mac OSX/Linux)
+* Configuration: You need RailInstaller (Windows/Mac OSX) or RVM (Mac OSX/Linux). I personally use Rubymine, a share-ware from Brainos.
 
-* Database creation and initialization: run command <tt>rake db:migrate</tt> and <tt>rake db:setup</tt>
+* Database creation and initialization: run command <tt>rake db:setup</tt> and <tt>rake db:migrate</tt>
 
-* How to run the test suite: run command <tt>rake test</tt> for all tests at once or specific test by command <tt>rake test:models</tt>, etc...
+* How to run the test suite: run command <tt>rake test</tt> for all tests at once or specific test by command <tt>rake test:models</tt>, <tt>rake test:integration, etc.
 
-* Services (job queues, cache servers, search engines, etc.): Initialize localhost server by command <tt>rails s</tt>
+* Services (job queues, cache servers, search engines, etc.): Initialize localhost server by command <tt>rails server</tt> or <tt>rails s</tt>
 
 * Deployment instructions: Recommend deploy on Ubuntu 12.04 LTS + Passenger (Also requires to install Apache & MySQL).
 
 * ...
 
 
-Please feel free to contact me at: <tt>khanhthietbi@gmail.com</tt>
+Feel free to contact me at: <tt>khanhthietbi@gmail.com</tt>
